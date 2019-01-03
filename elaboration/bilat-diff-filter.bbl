@@ -1,0 +1,9 @@
+\begin{thebibliography}{TM98}
+
+\bibitem[TM98]{tomasi1998bilateral}
+Carlo Tomasi and Roberto Manduchi.
+\newblock Bilateral filtering for gray and color images.
+\newblock In {\em Computer Vision, 1998. Sixth International Conference on},
+  pages 839--846. IEEE, 1998.
+
+\end{thebibliography}
