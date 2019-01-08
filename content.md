@@ -8,7 +8,7 @@ Markus Braunwarth (mbraunwarth@uni-koblenz.de)
 2. Glättungsfilter  
 	2.1 Lineare vs. nicht lineare Filter  
 	2.2 Domain vs. Range Filter  
-	2.3 Probleme mit Kanten (Beispiel Mittelwertfilter) 
+	2.3 Probleme mit Kanten (Beispiel Gaussfilter) 
 3. Kantenerhaltende Glättung  
 	3.1 Bilaterale Filter  
 	3.2 Diffusionsfilter

@@ -1,9 +1,25 @@
-\begin{thebibliography}{TM98}
+\begin{thebibliography}{Wei98}
+
+\bibitem[BB09]{burger2009principles}
+Wilhelm Burger and Mark~James Burge.
+\newblock {\em Principles of digital image processing}.
+\newblock Springer, 2009.
+
+\bibitem[PM90]{perona1990scale}
+Pietro Perona and Jitendra Malik.
+\newblock Scale-space and edge detection using anisotropic diffusion.
+\newblock {\em IEEE Transactions on pattern analysis and machine intelligence},
+  12(7):629--639, 1990.
 
 \bibitem[TM98]{tomasi1998bilateral}
 Carlo Tomasi and Roberto Manduchi.
 \newblock Bilateral filtering for gray and color images.
 \newblock In {\em Computer Vision, 1998. Sixth International Conference on},
   pages 839--846. IEEE, 1998.
+
+\bibitem[Wei98]{weickert1998anisotropic}
+Joachim Weickert.
+\newblock {\em Anisotropic diffusion in image processing}, volume~1.
+\newblock Teubner Stuttgart, 1998.
 
 \end{thebibliography}
